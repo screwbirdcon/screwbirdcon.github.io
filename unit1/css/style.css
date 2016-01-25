@@ -1,1 +1,6 @@
-body {background-color: red;} h1, p {white; }
+body {
+  background-color: red;
+}
+h1, p {
+  color: white;
+}
